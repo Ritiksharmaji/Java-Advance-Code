@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module normal_java {
-}
