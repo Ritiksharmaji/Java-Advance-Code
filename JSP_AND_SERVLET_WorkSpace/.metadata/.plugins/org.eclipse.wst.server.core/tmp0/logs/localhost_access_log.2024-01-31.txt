@@ -1,0 +1,10 @@
+127.0.0.1 - - [31/Jan/2024:17:10:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:10:15 +0530] "GET /Youtube_project/ HTTP/1.1" 200 8574
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:10:15 +0530] "GET /Youtube_project/... HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:10:15 +0530] "GET /Youtube_project/css/NewFile.css HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:10:15 +0530] "GET /Youtube_project/js/myjs.js HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:10:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:10:50 +0530] "GET /Youtube_project/Login_jsp.jsp HTTP/1.1" 200 6324
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:11:19 +0530] "POST /Youtube_project/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:11:21 +0530] "GET /Youtube_project/profile.jsp HTTP/1.1" 200 16160
+0:0:0:0:0:0:0:1 - - [31/Jan/2024:17:11:21 +0530] "GET /Youtube_project/pics/dafult.png.jpg HTTP/1.1" 200 937151

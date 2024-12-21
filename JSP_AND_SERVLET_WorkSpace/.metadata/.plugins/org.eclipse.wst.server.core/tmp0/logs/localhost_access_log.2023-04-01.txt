@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:00:16:42 +0530] "GET /youtube_jsp_and_servlet_project/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:00:16:43 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:00:16:50 +0530] "GET /youtube_jsp_and_servlet_project/divison_jsp.jsp?first_number=23&second_number=4&button= HTTP/1.1" 200 171
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:00:17:02 +0530] "GET /youtube_jsp_and_servlet_project/divison_jsp.jsp?first_number=23&second_number=&button= HTTP/1.1" 500 853
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:00:17:05 +0530] "GET /youtube_jsp_and_servlet_project/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [01/Apr/2023:08:02:08 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:02:10 +0530] "GET /javaTpoint_jsp_program/custom.jsp HTTP/1.1" 200 186
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:02:10 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [01/Apr/2023:08:21:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:21:15 +0530] "GET /youtube_jsp_program/example_custom.jsp HTTP/1.1" 500 2316
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:22:34 +0530] "GET /youtube_jsp_program/example_custom.jsp HTTP/1.1" 500 2316
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:22:47 +0530] "GET /youtube_jsp_program/example_custom.jsp HTTP/1.1" 500 2316
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:23:06 +0530] "GET /youtube_jsp_program/example_custom.jsp HTTP/1.1" 500 2316
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:26:47 +0530] "GET /youtube_jsp_program/example_custom.jsp HTTP/1.1" 500 2316
+0:0:0:0:0:0:0:1 - - [01/Apr/2023:08:28:42 +0530] "GET /youtube_jsp_program/example_custom.jsp HTTP/1.1" 200 187

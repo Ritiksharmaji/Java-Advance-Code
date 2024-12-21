@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:04:38 +0530] "GET /youtube_jsp_and_servlet_project/ HTTP/1.1" 200 1078
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:04:45 +0530] "GET /youtube_jsp_and_servlet_project/divison_jsp.jsp?first_number=12&second_number=3&button= HTTP/1.1" 200 171
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:04:53 +0530] "GET /youtube_jsp_and_servlet_project/divison_jsp.jsp?first_number=12&second_number=0&button= HTTP/1.1" 500 840
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:04:56 +0530] "GET /youtube_jsp_and_servlet_project/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:05:06 +0530] "GET /youtube_jsp_and_servlet_project/dff HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:05:09 +0530] "GET /youtube_jsp_and_servlet_project/dff HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:05:26 +0530] "GET /youtube_jsp_and_servlet_project/divison_jsp.jsp?first_number=&second_number=&button= HTTP/1.1" 500 853
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:05:31 +0530] "GET /youtube_jsp_and_servlet_project/divison_jsp.jsp?first_number=&second_number=&button=dfdfwfw HTTP/1.1" 500 853
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:00:06:20 +0530] "GET /youtube_jsp_and_servlet_project/helo.html HTTP/1.1" 404 796
+127.0.0.1 - - [31/Mar/2023:19:03:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:19:03:20 +0530] "GET /youtube_jsp_and_servlet_project/index.jsp HTTP/1.1" 200 188
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:19:03:20 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:20:32:32 +0530] "GET /youtube_jsp_and_servlet_project/index.jsp HTTP/1.1" 200 188

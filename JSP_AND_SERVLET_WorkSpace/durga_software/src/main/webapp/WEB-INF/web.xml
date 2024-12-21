@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>durga_software</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>Firstservlett</display-name>
+    <servlet-name>Firstservlett</servlet-name>
+    <servlet-class>durga.Firstservlett</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Firstservlett</servlet-name>
+    <url-pattern>/welcome</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>myhttpservlet</display-name>
+    <servlet-name>myhttpservlet</servlet-name>
+    <servlet-class>durga.myhttpservlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>myhttpservlet</servlet-name>
+    <url-pattern>/firstHttp</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ValidateServelt</display-name>
+    <servlet-name>ValidateServelt</servlet-name>
+    <servlet-class>Request_dispatcher.ValidateServelt</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ValidateServelt</servlet-name>
+    <url-pattern>/validateservelt</url-pattern>
+  </servlet-mapping>
+</web-app>

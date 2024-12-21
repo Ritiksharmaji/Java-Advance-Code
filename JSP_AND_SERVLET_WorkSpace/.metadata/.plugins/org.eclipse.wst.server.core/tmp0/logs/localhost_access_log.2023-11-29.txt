@@ -1,0 +1,13 @@
+127.0.0.1 - - [29/Nov/2023:16:38:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:10 +0530] "GET /Time_Table_management/ HTTP/1.1" 200 5373
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:10 +0530] "GET /Time_Table_management/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:13 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:18 +0530] "GET /Time_Table_management/login.jsp HTTP/1.1" 200 8512
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:18 +0530] "GET /Time_Table_management/css/NewFile.css HTTP/1.1" 404 796
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:18 +0530] "GET /Time_Table_management/js/myjs.js HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:18 +0530] "GET /Time_Table_management/js/myjs.js HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:35 +0530] "POST /Time_Table_management/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:35 +0530] "GET /Time_Table_management/login.jsp HTTP/1.1" 200 8742
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:35 +0530] "GET /Time_Table_management/css/NewFile.css HTTP/1.1" 404 796
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:35 +0530] "GET /Time_Table_management/js/myjs.js HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [29/Nov/2023:16:38:35 +0530] "GET /Time_Table_management/js/myjs.js HTTP/1.1" 404 791

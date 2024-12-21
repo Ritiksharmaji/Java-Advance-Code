@@ -1,0 +1,6 @@
+127.0.0.1 - - [20/Aug/2023:13:27:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Aug/2023:13:27:32 +0530] "GET /Time_management_of_faculity/ HTTP/1.1" 200 5075
+0:0:0:0:0:0:0:1 - - [20/Aug/2023:13:27:32 +0530] "GET /Time_management_of_faculity/index.css HTTP/1.1" 200 1273
+0:0:0:0:0:0:0:1 - - [20/Aug/2023:13:28:06 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [20/Aug/2023:13:28:34 +0530] "GET /Time_management_of_faculity/login.html HTTP/1.1" 200 1835
+0:0:0:0:0:0:0:1 - - [20/Aug/2023:13:28:57 +0530] "POST /Time_management_of_faculity/login_servlet HTTP/1.1" 404 796

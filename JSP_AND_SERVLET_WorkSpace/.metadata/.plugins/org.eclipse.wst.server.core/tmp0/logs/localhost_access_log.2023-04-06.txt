@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:01:17 +0530] "GET /youtube_jsp_program/page2_derictory.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:01:17 +0530] "GET /youtube_jsp_program/page3_derictory.jsp HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:03:02 +0530] "GET /youtube_jsp_program/page3_derictory.jsp HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:03:05 +0530] "GET /youtube_jsp_program/page1_derictory.jsp HTTP/1.1" 200 223
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:03:07 +0530] "GET /youtube_jsp_program/page2_derictory.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:03:07 +0530] "GET /youtube_jsp_program/page3_derictory.jsp HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:03:14 +0530] "GET /youtube_jsp_program/page1_derictory.jsp HTTP/1.1" 200 223
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:03:16 +0530] "GET /youtube_jsp_program/page2_derictory.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:00:03:16 +0530] "GET /youtube_jsp_program/page3_derictory.jsp HTTP/1.1" 200 203

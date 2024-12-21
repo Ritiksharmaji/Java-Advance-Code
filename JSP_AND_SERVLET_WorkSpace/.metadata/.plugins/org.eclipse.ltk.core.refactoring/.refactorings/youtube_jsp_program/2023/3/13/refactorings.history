@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;custemer_tag&apos; to &apos;youtube_jsp_and_servlet_project/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;youtube_jsp_program&apos;&#x0D;&#x0A;- Destination element: &apos;youtube_jsp_and_servlet_project/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;youtube_jsp_program/src/main/java/custemer_tag&apos;" description="Copy package" destination="=youtube_jsp_and_servlet_project/src\/main\/java" element1="/src\/main\/java&lt;custemer_tag" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1680267938119" version="1.0"/>
+</session>

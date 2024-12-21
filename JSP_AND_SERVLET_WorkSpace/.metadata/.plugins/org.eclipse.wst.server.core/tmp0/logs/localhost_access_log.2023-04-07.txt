@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/Apr/2023:10:44:32 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:44:33 +0530] "GET /javaTpoint_jsp_program/scriptlet_tag_jsp.html HTTP/1.1" 200 238
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:44:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:44:41 +0530] "GET /javaTpoint_jsp_program/scriptlet_jsp.jsp?user=ritik HTTP/1.1" 200 143
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:47:34 +0530] "GET /javaTpoint_jsp_program/scriptlet_tag_jsp.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:47:41 +0530] "GET /javaTpoint_jsp_program/scriptlet_jsp.jsp?user=ritik HTTP/1.1" 200 144
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:11:04:09 +0530] "GET /javaTpoint_jsp_program/expression_jsp_exam1.html HTTP/1.1" 200 239
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:11:04:15 +0530] "GET /javaTpoint_jsp_program/expression_jsp1.jsp?user=ritik HTTP/1.1" 200 143
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:11:04:36 +0530] "GET /javaTpoint_jsp_program/expression_jsp_exam1.html HTTP/1.1" 200 249
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:11:04:41 +0530] "GET /javaTpoint_jsp_program/expression_jsp1.jsp?user=Ritik+Sharma HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:11:37:53 +0530] "GET /javaTpoint_jsp_program/response_jsp1.html HTTP/1.1" 200 250
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:11:37:58 +0530] "GET /javaTpoint_jsp_program/response_jsp1.jsp?user=ram HTTP/1.1" 302 -

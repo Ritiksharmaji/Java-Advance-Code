@@ -1,0 +1,15 @@
+127.0.0.1 - - [21/Mar/2023:08:38:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:38:17 +0530] "GET /college_servlet_jsp_program/index.jsp HTTP/1.1" 200 842
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:38:17 +0530] "GET /college_servlet_jsp_program/style.css HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:38:18 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:38:21 +0530] "POST /college_servlet_jsp_program/response.jsp HTTP/1.1" 200 488
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:41:41 +0530] "GET /college_servlet_jsp_program/servlet/college_servlet_jsp_program.Fisrt_servlet HTTP/1.1" 404 836
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:47:09 +0530] "GET /college_servlet_jsp_program/First_servlet_html.html HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:47:15 +0530] "GET /college_servlet_jsp_program/First_servlet_html.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:47:59 +0530] "GET /college_servlet_jsp_program/First_servlet_html.html HTTP/1.1" 200 208
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:48:01 +0530] "POST /college_servlet_jsp_program/displaySimpletext HTTP/1.1" 404 800
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:48:08 +0530] "POST /college_servlet_jsp_program/displaySimpletext HTTP/1.1" 404 800
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:49:08 +0530] "GET /college_servlet_jsp_program/firstLogin.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:49:18 +0530] "POST /college_servlet_jsp_program/login HTTP/1.1" 200 415
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:49:42 +0530] "POST /college_servlet_jsp_program/login HTTP/1.1" 200 415
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:08:49:58 +0530] "POST /college_servlet_jsp_program/login HTTP/1.1" 200 415

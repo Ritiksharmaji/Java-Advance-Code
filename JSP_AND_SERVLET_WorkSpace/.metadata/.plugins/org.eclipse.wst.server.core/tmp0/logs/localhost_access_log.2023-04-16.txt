@@ -1,0 +1,11 @@
+127.0.0.1 - - [16/Apr/2023:16:49:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:49:10 +0530] "GET /youtube_servlet/filter.html HTTP/1.1" 200 368
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:49:21 +0530] "GET /youtube_servlet/Stdreg?name=testing&email=ritiksharma555598%40gmail.com&marks=30 HTTP/1.1" 405 747
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:50:20 +0530] "GET /youtube_servlet/filter.html HTTP/1.1" 200 383
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:50:27 +0530] "POST /youtube_servlet/Stdreg HTTP/1.1" 405 747
+127.0.0.1 - - [16/Apr/2023:16:51:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:51:05 +0530] "GET /youtube_servlet/filter.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:51:07 +0530] "POST /youtube_servlet/Stdreg HTTP/1.1" 500 1389
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:51:17 +0530] "POST /youtube_servlet/Stdreg HTTP/1.1" 405 747
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:57:47 +0530] "GET /application/ HTTP/1.1" 200 1863
+0:0:0:0:0:0:0:1 - - [16/Apr/2023:16:57:47 +0530] "GET /application/index.css HTTP/1.1" 200 215

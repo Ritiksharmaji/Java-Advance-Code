@@ -1,0 +1,2 @@
+127.0.0.1 - - [15/Apr/2023:08:18:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Apr/2023:08:18:36 +0530] "GET /youtube_jsp_program/error_handling.jsp HTTP/1.1" 500 230

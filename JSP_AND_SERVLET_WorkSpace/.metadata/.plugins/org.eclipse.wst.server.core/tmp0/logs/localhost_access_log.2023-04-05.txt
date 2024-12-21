@@ -1,0 +1,17 @@
+127.0.0.1 - - [05/Apr/2023:16:11:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:16:11:30 +0530] "GET /youtube_jsp_program/taglib.jsp HTTP/1.1" 500 2749
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:16:11:30 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:16:21:21 +0530] "GET /youtube_jsp_program/example_custom.jsp HTTP/1.1" 200 187
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:16:55:15 +0530] "GET /youtube_jsp_program/table_exam.jsp HTTP/1.1" 500 3965
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:17:04:28 +0530] "GET /youtube_jsp_program/table_exam.jsp HTTP/1.1" 200 259
+127.0.0.1 - - [05/Apr/2023:23:27:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:27:47 +0530] "GET /youtube_jsp_program/page1_derictory.jsp HTTP/1.1" 200 229
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:27:47 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:31:43 +0530] "GET /application/index.html HTTP/1.1" 200 1863
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:31:43 +0530] "GET /application/index.css HTTP/1.1" 200 215
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:33:27 +0530] "GET /youtube_jsp_program/page1_derictory.jsp HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:33:29 +0530] "GET /youtube_jsp_program/page2_derictory.jsp HTTP/1.1" 200 151
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:35:13 +0530] "GET /youtube_jsp_program/page2_derictory.jsp HTTP/1.1" 200 206
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:48:56 +0530] "GET /youtube_jsp_program/page1_derictory.jsp HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:48:57 +0530] "GET /youtube_jsp_program/page2_derictory.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:23:48:58 +0530] "GET /youtube_jsp_program/page3_derictory.jsp HTTP/1.1" 200 203

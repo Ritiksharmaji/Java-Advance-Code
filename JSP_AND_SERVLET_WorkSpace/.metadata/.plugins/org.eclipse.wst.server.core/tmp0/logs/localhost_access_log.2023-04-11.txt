@@ -1,0 +1,2 @@
+127.0.0.1 - - [11/Apr/2023:17:36:06 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Apr/2023:17:36:07 +0530] "GET /JavaTpoint_servlet/WEB-INF/classes/Servlet_first/Lifecycle_methods.java HTTP/1.1" 404 682

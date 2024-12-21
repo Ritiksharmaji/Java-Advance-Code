@@ -1,0 +1,8 @@
+127.0.0.1 - - [08/Apr/2023:12:56:44 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:12:56:45 +0530] "GET /Servlet_second_project/thirdpackfirst.html HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:12:57:03 +0530] "POST /Servlet_second_project/thirdone HTTP/1.1" 200 718
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:12:58:12 +0530] "POST /Servlet_second_project/thirdone HTTP/1.1" 200 389
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:12:59:03 +0530] "POST /Servlet_second_project/thirdone HTTP/1.1" 200 376
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:12:59:12 +0530] "POST /Servlet_second_project/thirdone HTTP/1.1" 200 47
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:13:00:15 +0530] "POST /Servlet_second_project/thirdone HTTP/1.1" 200 376
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:13:00:25 +0530] "POST /Servlet_second_project/thirdone HTTP/1.1" 200 389

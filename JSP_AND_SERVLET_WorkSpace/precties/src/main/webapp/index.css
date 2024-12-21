@@ -1,0 +1,121 @@
+@charset "UTF-8";
+.home-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+}
+
+.paragraph {
+    font-family: "Roboto";
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+/* this is for ssecrcond section  
+
+*/
+
+.bg-container {
+    background-image: url(https://i.pinimg.com/originals/3f/17/c2/3f17c2ade341af2f0af4fb6f5af22702.jpg);
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
+.main-hadding {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    padding: 20px;
+    font-size: 17px;
+}
+
+.card-container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+
+}
+
+.card-p,
+.card-heading {
+    font-style: italic;
+
+}
+
+.cord-p {
+    font-size: 13px;
+}
+
+.card-image {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100px;
+}
+
+/* this is for third section 
+
+*/
+
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 20px;
+}
+
+/* this is for golden viow */
